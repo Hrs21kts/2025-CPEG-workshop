@@ -6,6 +6,10 @@ The aim of this template is to provide a set structure for the organisation of c
 
 ## Instructions
 
+I'm making a modification so that this is mine. AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+
+Amelia is silly
+
 So, we're doing another workshop are we!? Follow this helpful checklist to get started with this template.
 
 1. On the main page of the repository, click 'Use this template' (top right) and select 'Create a new repository'.
